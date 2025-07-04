@@ -9,7 +9,7 @@
 ## 🛠️ Технологии и стек:
 - **Языки:** JavaScript, HTML, CSS, PHP, Python, C++ 
 - **Фреймворки и библиотеки:** Qt 5/6, Vue.js, Bootstrap
-- **Инструменты:** Git, GitHub, Linux, VS Code, Qt Creator
+- **Инструменты:** Git, GitHub, VS Code, Qt Creator, Linux
 - **Сферы:** разработка десктопных GUI-приложений, веб-сайты, сетевые приложения, REST, SMTP
 
 ---
@@ -18,7 +18,7 @@
 
 ### ✈️ [SamalAir.kz](https://www.samalair.kz) — полноценный сайт авиакомпании  
 - Разработан мной полностью: frontend + backend + SMTP-интеграции  
-- PHP, HTML, CSS, Bootstrap, jQuery  
+- HTML, CSS, Bootstrap, jQuery  
 - Реализованы формы, адаптивность и внутренняя логика
 
 ### 📦 [Qt Projects](https://github.com/FedorKuznetsov99/kfrepository/blob/main/QtProjects.zip)  
