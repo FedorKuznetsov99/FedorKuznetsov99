@@ -21,7 +21,7 @@
 - PHP, HTML, CSS, Bootstrap, jQuery  
 - Реализованы формы, адаптивность и внутренняя логика
 
-### 🧪 [TCP Client-Server на Qt (C++)](https://github.com/FedorKuznetsov99/kfrepository/tree/main/qt-tcp)  
+### 🧪 [TCP Client-Server на Qt (C++)]([https://github.com/FedorKuznetsov99/kfrepository/tree/main/qt-tcp](https://github.com/FedorKuznetsov99/kfrepository/blob/main/QtProjects.zip))  
 - Пример взаимодействия клиента и сервера через QTcpSocket / QTcpServer  
 - Передача структур, подсчёт подключений  
 - Успешно выполненное тестовое задание
@@ -30,7 +30,7 @@
 - Приложение для получения погоды по API  
 - Qt + C++, JSON-парсинг, адаптивный UI
 
-### 📁 [Разные Qt-проекты](https://github.com/FedorKuznetsov99/kfrepository)  
+### 📁 [Разные проекты](https://github.com/FedorKuznetsov99/kfrepository)  
 - Экспериментальные и тестовые интерфейсы  
 - Работа с формами, виджетами, слоями и логикой
 
