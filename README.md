@@ -21,7 +21,7 @@
 - PHP, HTML, CSS, Bootstrap, jQuery  
 - Реализованы формы, адаптивность и внутренняя логика
 
-### 📦 [Qt Projects (архив)](https://github.com/FedorKuznetsov99/kfrepository/blob/main/QtProjects.zip)  
+### 📦 [Qt Projects](https://github.com/FedorKuznetsov99/kfrepository/blob/main/QtProjects.zip)  
 - Коллекция моих Qt-проектов: клиент-серверное TCP-приложение, формы, взаимодействие через сокеты  
 - Написаны на C++ с использованием Qt 5.15  
 - Включают демонстрации передачи структур, взаимодействия клиент–сервер и виджеты
@@ -44,5 +44,5 @@
 - Telegram: [@KFedor9](https://t.me/KFedor9)  
 - GitHub: [github.com/FedorKuznetsov99](https://github.com/FedorKuznetsov99)  
 - LinkedIn: [профиль](http://surl.li/jozlpm)  
-- Email: kuz.fedor99@gmail.com  
+- Email: kuznetsovfv2000@gmail.com
 - Телефон: +7 (747) 575-14-89
